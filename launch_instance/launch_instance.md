@@ -1,18 +1,21 @@
 # An introduction to how to launch an EC2 instance quickly
-Now, we show to launch an EC2 instance step by step.
+<font color="blue">Now, we show to launch an EC2 instance step by step.
 First of all, after we login the AWS, we will see the first picture below, which is the dashboard of the AWS.
-Now, we click the EC2 button.
+Now, we click the EC2 button.</font>
 ![ picture one ](/launch_instance/pic001.JPG)
 
-After you chose EC2 in the dashboard showing on the above, you will see the following picture two.
+<font color="blue">After you chose EC2 in the dashboard showing on the above, you will see the following picture two.
 Click the "Launch instance" button to go to the launch process.
+</font>
 ![ picture two ](/launch_instance/pic002.JPG)
 
-The first step is to choose an Amazon machine image (AMI).
+<font color="blue">The first step is to choose an Amazon machine image (AMI).
 Picture three show that there are some AMI options. In this example, we selected the ubuntu 16.04 AMI.
+</font>
 ![ picture three ](/launch_instance/pic003.JPG)
 
-After we chose the AMI, step two, we need to choose an instance type which is the specification of the virtual machine.
+<font color="blue">After we chose the AMI, step two, we need to choose an instance type which is the specification of the virtual machine.
+</font>
 ![ picture four ](/launch_instance/pic004.JPG)
 
 
