@@ -32,10 +32,13 @@ A good way to set the source ip is to choose "My IP" directly.
 After we set source ip to MY IP, we clicked "Review and launch".
 ![ picture six ](/launch_instance/pic006.JPG)
 
-
+Then we will see the following picture which is a successful page. 
+Then we scroll down the page, we will see a hyperlink which can go to instance page.
+We clicked the hyperlink to go to the instance page. 
 ![ picture seven ](/launch_instance/pic007.JPG)
 
-
+Then we will see the folloing page. You will the instance we just launched is the last one in the button.
+This instance has not set a name. Now we set a new name for it. Then it will look like the next picture.
 ![ picture eight ](/launch_instance/pic008.JPG)
 
 
