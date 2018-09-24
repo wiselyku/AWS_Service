@@ -15,13 +15,21 @@ Picture three show that there are some AMI options. In this example, we selected
 ![ picture three ](/launch_instance/pic003.JPG)
 
 <font color="blue">After we chose the AMI, step two, we need to choose an instance type which is the specification of the virtual machine.
+We chose t2.micro type for the convenient reason.
 </font>
 ![ picture four ](/launch_instance/pic004.JPG)
 
-
+After we chose the instance type, we clicked the "Review and launch" button. 
+Then we will see the following picture. You will see a warning there.
+This is because you did not set up a more secure setting for SSH login.
+AWS does not want you to allow all source ip to be able to login to your instance.
+Therefore, you need to change the setting of the ssh login source ips.
+Thus, we clicked "Edit security group" hyper link.
 ![ picture five ](/launch_instance/pic005.JPG)
 
-
+After we clicked the "Edit security group", we will see the following picture.
+A good way to set the source ip is to choose "My IP" directly.
+After we set source ip to MY IP, we clicked "Review and launch".
 ![ picture six ](/launch_instance/pic006.JPG)
 
 
