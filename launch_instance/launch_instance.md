@@ -32,6 +32,10 @@ A good way to set the source ip is to choose "My IP" directly.
 After we set source ip to MY IP, we clicked "Review and launch".
 ![ picture six ](/launch_instance/pic006.JPG)
 
+Then we will see the following picture. The webpage will ask you to set private key. You can choose existing private key or create a new one. No matter option you chose, remember to download the file. It is because that you will need the private key file which will be xxx.pem file to ssh login the instance. Thus, it is very important that don't forget to download the file.
+Then we clicked the "Launch" button.
+![ picture six ](/launch_instance/pic006_1.JPG)
+
 Then we will see the following picture which is a successful page. 
 Then we scroll down the page, we will see a hyperlink which can go to instance page.
 We clicked the hyperlink to go to the instance page. 
