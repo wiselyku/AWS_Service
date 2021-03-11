@@ -1,5 +1,6 @@
 # Introduction to ssh into an instance with private key
 First of all, go to the directory where you put the file of the private key.
+
 ![ picture one ](/EC2_Service/ssh_login_instance/pic001.JPG)
 
 Then we need to change the priviledge of the file to 600. 
